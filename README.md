@@ -18,11 +18,11 @@ Soy un desarrollador en formación, enfocado en el desarrollo de aplicaciones we
 
 ## 🛠 Proyectos Destacados  
 
-### [Proyecto 1: Tienda de Consolas](#)
+### [Tienda de Consolas](#AlexMorena/TiendaConsolas)
 Este proyecto se basa en una tienda de consolas
 **Tecnologías usadas:** [CSS, HTML, JAVA, JSP]  
 
-### [Proyecto 2: Aplicación de Inscripción en Cursos](#)
+### [Aplicación de Inscripción en Cursos](#AlexMorena/GestionCursosProfesores)
 Este proyecto se basa en una plataforma que permite inscribir profesores en cursos,
 crear nuevos cursos, eliminar cursos
 **Tecnologías usadas:** [HTML, CSS, PHP]  
