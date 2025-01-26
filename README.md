@@ -31,7 +31,7 @@ crear nuevos cursos, eliminar cursos
 
 ## 📜 Educación  
 - **Grado Medio en Sistemas Microinformáticos y Redes**  
-  *I.E.S Laguna de Joatzel (2020 - 2022)*  
+  *I.E.S Laguna de Joatzel (2019 - 2021)*  
 - **Grado Superior en Desarrollo de Aplicaciones Web**  
   *I.E.S Domenico Scarlatti (2023 - 2025)*  
 - **Curso de C# para Principiantes**  
