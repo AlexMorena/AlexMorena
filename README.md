@@ -1,55 +1,85 @@
 # 👋 ¡Hola! Soy Alejandro Morena Rodríguez  
 
-Soy un desarrollador en formación, enfocado en el desarrollo de aplicaciones web y con experiencia en sistemas microinformáticos y redes. Me apasiona aprender nuevas tecnologías, trabajar en equipo y resolver problemas de manera eficiente. Actualmente estoy estudiando un **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
+🚀 Desarrollador en formación | 💻 Desarrollo Web | 🌍 Apasionado de la tecnología  
 
 ---
 
-## 🚀 Habilidades y Tecnologías  
-### Lenguajes  
-- C#, Java, SQL, JSP  
-- HTML, CSS, JavaScript, PHP  
+---
 
-### Herramientas  
-- Git & GitHub  
-- Hojas de Cálculo  
-- Office  
+## 🚀 Sobre mí  
+🎓 Actualmente estudio un **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
+💡 Me encanta aprender nuevas tecnologías y mejorar continuamente  
+⚡ Me especializo en desarrollo web y optimización de procesos  
+🤝 ¡Estoy abierto a colaborar en proyectos interesantes!  
 
 ---
 
-## 🛠 Proyectos Destacados  
+## 🛠 Habilidades y Tecnologías  
 
-### [Tienda de Consolas](#AlexMorena/TiendaConsolas)
-Este proyecto se basa en una tienda de consolas
-**Tecnologías usadas:** [CSS, HTML, JAVA, JSP]  
+### 🎨 Frontend  
+🔹 **Lenguajes y Estilos**  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### [Aplicación de Inscripción en Cursos](#AlexMorena/GestionCursosProfesores)
-Este proyecto se basa en una plataforma que permite inscribir profesores en cursos,
-crear nuevos cursos, eliminar cursos
-**Tecnologías usadas:** [HTML, CSS, PHP]  
+🔹 **Frameworks y Librerías**  
+- 🔥 Bootstrap  
+
+### ⚙ Backend  
+🔹 **Lenguajes y Bases de Datos**  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)  
+
+ 
+
+### 🛠 Otras herramientas  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-## 📜 Educación  
-- **Grado Medio en Sistemas Microinformáticos y Redes**  
-  *I.E.S Laguna de Joatzel (2019 - 2021)*  
-- **Grado Superior en Desarrollo de Aplicaciones Web**  
-  *I.E.S Domenico Scarlatti (2023 - 2025)*  
-- **Curso de C# para Principiantes**  
-  *OpenWebinars (2024)*  
+## 📌 Proyectos Destacados  
+
+### 🎮 [Tienda de Consolas](https://github.com/AlexMorena/TiendaConsolas)  
+🛒 Una tienda virtual de consolas y videojuegos.  
+**🛠 Tecnologías usadas:**  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### 📚 [Aplicación de Inscripción en Cursos](https://github.com/AlexMorena/GestionCursosProfesores)  
+📖 Plataforma que permite inscribir profesores en cursos, crearlos y eliminarlos.  
+**🛠 Tecnologías usadas:**  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ---
 
-## 🌐 Encuéntrame en  
-- [Linkedin](https://www.linkedin.com)
-- [Página Personal](https://www.alexmorena.es)
+## 🎓 Educación  
+📌 **Grado Medio en Sistemas Microinformáticos y Redes**  
+📌 **Grado Superior en Desarrollo de Aplicaciones Web** *(2023 - 2025)*  
+📌 **Curso de C# para Principiantes - OpenWebinars (2024)**  
+
+---
+
+## 🌍 Encuéntrame en  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-morena-rodriguez/)  
+[![Web](https://img.shields.io/badge/Página%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alexmorena.es)  
 
 ---
 
 ## ⚡ Datos Curiosos  
-- Me encanta resolver problemas técnicos y optimizar procesos.  
-- Siempre estoy buscando maneras de mejorar y aprender nuevas habilidades.  
-- ¡Disponible para colaborar en proyectos interesantes! 🚀  
+✔ Me encanta resolver problemas técnicos y optimizar procesos.  
+✔ Siempre estoy en búsqueda de mejorar mis habilidades.  
+✔ ¡Disponible para colaborar en proyectos interesantes! 🚀  
 
 ---
 
-### ✨ "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito."
+💡 **"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito."**  
