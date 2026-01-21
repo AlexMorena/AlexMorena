@@ -71,7 +71,7 @@
 ## 🌍 Encuéntrame en  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-morena-rodriguez/)  
-[![Web](https://img.shields.io/badge/Página%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.alexmorena.es)  
+[![Web](https://img.shields.io/badge/Página%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alexmorena.me). 
 
 ---
 
