@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí  
-🎓 Apasionado por el desarrollo web y siempre aprendiendo algo nuevo 
+🎓 Apasionado por el desarrollo web y siempre aprendiendo algo nuevo
 💡 Me encanta aprender nuevas tecnologías y mejorar continuamente  
 ⚡ Me especializo en desarrollo web y optimización de procesos  
 🤝 ¡Estoy abierto a colaborar en proyectos interesantes!  
