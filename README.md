@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí  
 💡 Me encanta aprender nuevas tecnologías y mejorar continuamente  
-⚡ Me especializo en desarrollo web y optimización de procesos  
+⚡ Desarrollo principalmente proyectos full-stack, combinando frontend y backend  
 🤝 ¡Estoy abierto a colaborar en proyectos interesantes!  
 
 ---
