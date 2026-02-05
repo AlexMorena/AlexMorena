@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Morena Rodríguez  
 
-🚀 Desarrollador Junior | 💻 Desarrollo Web | 🌍 Apasionado de la tecnología  
+🚀 Junior Software Developer | 🌍 Apasionado de la tecnología  
 
 ---
 
