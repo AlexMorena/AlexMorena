@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Alejandro Morena Rodríguez  
 
-🚀 Desarrollador en formación | 💻 Desarrollo Web | 🌍 Apasionado de la tecnología  
+🚀 Desarrollador Junior | 💻 Desarrollo Web | 🌍 Apasionado de la tecnología  
 
 ---
 
 ---
 
 ## 🚀 Sobre mí  
-🎓 Actualmente estudio un **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
+🎓 Apasionado por el desarrollo web y siempre aprendiendo algo nuevo 
 💡 Me encanta aprender nuevas tecnologías y mejorar continuamente  
 ⚡ Me especializo en desarrollo web y optimización de procesos  
 🤝 ¡Estoy abierto a colaborar en proyectos interesantes!  
@@ -65,6 +65,7 @@
 📌 **Grado Medio en Sistemas Microinformáticos y Redes**  
 📌 **Grado Superior en Desarrollo de Aplicaciones Web** *(2023 - 2025)*  
 📌 **Curso de C# para Principiantes - OpenWebinars (2024)**  
+📌 **Curso C# desde 0 - Udemy (2026)**
 
 ---
 
